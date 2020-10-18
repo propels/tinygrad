@@ -2,7 +2,7 @@
 from functools import partialmethod
 import numpy as np
 
-# **** start with two base classes ****
+# **** Start with two base classes ****
 
 class Tensor:
   def __init__(self, data):
